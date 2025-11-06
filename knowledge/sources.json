@@ -1,0 +1,88 @@
+{
+  "sources": [
+    {
+      "category": "ghost",
+      "slug": "theme-structure",
+      "url": "https://docs.ghost.org/themes/structure/",
+      "notes": "Details on Ghost theme files and customization points."
+    },
+    {
+      "category": "ghost",
+      "slug": "themes",
+      "url": "https://ghost.org/docs/themes/",
+      "notes": "Theme structure and options for injecting custom templates and cards."
+    },
+    {
+      "category": "cloudflare-r2",
+      "slug": "overview",
+      "url": "https://developers.cloudflare.com/r2/",
+      "notes": "Platform overview, concepts, and integration entry points for R2."
+    },
+    {
+      "category": "cloudflare-r2",
+      "slug": "s3-api",
+      "url": "https://developers.cloudflare.com/r2/api/s3/api/",
+      "notes": "S3-compatible API details for managing buckets and uploads."
+    },
+    {
+      "category": "cloudflare-r2",
+      "slug": "multipart-from-workers",
+      "url": "https://developers.cloudflare.com/r2/api/workers/workers-multipart-usage/",
+      "notes": "Example of handling uploads to R2 via Workers using multipart APIs."
+    },
+    {
+      "category": "cloudflare-r2",
+      "slug": "upload-objects",
+      "url": "https://developers.cloudflare.com/r2/objects/upload-objects/",
+      "notes": "Guidance for uploading objects to R2 buckets, including direct uploads."
+    },
+    {
+      "category": "cloudflare-workers",
+      "slug": "overview",
+      "url": "https://developers.cloudflare.com/workers/",
+      "notes": "Workers platform overview, deployment pipeline, and runtime basics."
+    },
+    {
+      "category": "cloudflare-workers",
+      "slug": "handle-form-submissions",
+      "url": "https://developers.cloudflare.com/workers/runtime-apis/request/",
+      "notes": "Reference for the Request API including formData parsing."
+    },
+    {
+      "category": "cloudflare-workers",
+      "slug": "bindings",
+      "url": "https://developers.cloudflare.com/workers/platform/bindings/",
+      "notes": "Available resource bindings for Workers, including R2 and secrets."
+    },
+    {
+      "category": "cloudflare-email",
+      "slug": "email-workers",
+      "url": "https://developers.cloudflare.com/email-routing/email-workers/send-email-workers/",
+      "notes": "Sending transactional email from Workers using Email Routing and MailChannels."
+    },
+    {
+      "category": "costs",
+      "slug": "r2-pricing",
+      "url": "https://developers.cloudflare.com/r2/platform/pricing/",
+      "notes": "Storage, egress, and operations pricing for R2."
+    },
+    {
+      "category": "costs",
+      "slug": "workers-pricing",
+      "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+      "notes": "Workers pricing tiers and request limits."
+    },
+    {
+      "category": "alternatives",
+      "slug": "aws-s3-pricing",
+      "url": "https://aws.amazon.com/s3/pricing/",
+      "notes": "Amazon S3 standard pricing as a comparison point."
+    },
+    {
+      "category": "alternatives",
+      "slug": "backblaze-b2-pricing",
+      "url": "https://www.backblaze.com/b2/cloud-storage-pricing.html",
+      "notes": "Backblaze B2 cloud storage pricing for additional cost comparison."
+    }
+  ]
+}

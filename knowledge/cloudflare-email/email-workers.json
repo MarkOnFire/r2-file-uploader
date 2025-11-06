@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/email-routing/email-workers/send-email-workers/",
+  "category": "cloudflare-email",
+  "slug": "email-workers",
+  "retrieved_at": "2025-11-05T18:46:45.357951+00:00",
+  "notes": "Sending transactional email from Workers using Email Routing and MailChannels.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 192747
+}

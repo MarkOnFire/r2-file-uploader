@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/workers/runtime-apis/request/",
+  "category": "cloudflare-workers",
+  "slug": "handle-form-submissions",
+  "retrieved_at": "2025-11-05T21:59:12.276873+00:00",
+  "notes": "Reference for the Request API including formData parsing.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 337064
+}

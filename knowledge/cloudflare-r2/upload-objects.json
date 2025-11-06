@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/r2/objects/upload-objects/",
+  "category": "cloudflare-r2",
+  "slug": "upload-objects",
+  "retrieved_at": "2025-11-05T21:39:19.419483+00:00",
+  "notes": "Guidance for uploading objects to R2 buckets, including direct uploads.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 164784
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/workers/platform/bindings/",
+  "category": "cloudflare-workers",
+  "slug": "bindings",
+  "retrieved_at": "2025-11-05T20:59:32.644876+00:00",
+  "notes": "Available resource bindings for Workers, including R2 and secrets.",
+  "status_code": 301,
+  "success": true,
+  "content_length": 289116
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://aws.amazon.com/s3/pricing/",
+  "category": "alternatives",
+  "slug": "aws-s3-pricing",
+  "retrieved_at": "2025-11-05T18:46:45.357951+00:00",
+  "notes": "Amazon S3 standard pricing as a comparison point.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 804464
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/r2/api/s3/api/",
+  "category": "cloudflare-r2",
+  "slug": "s3-api",
+  "retrieved_at": "2025-11-05T18:46:45.357951+00:00",
+  "notes": "S3-compatible API details for managing buckets and uploads.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 194833
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://developers.cloudflare.com/r2/api/workers/workers-multipart-usage/",
+  "category": "cloudflare-r2",
+  "slug": "multipart-from-workers",
+  "retrieved_at": "2025-11-05T21:31:10.897455+00:00",
+  "notes": "Example of handling uploads to R2 via Workers using multipart APIs.",
+  "status_code": 200,
+  "success": true,
+  "content_length": 245370
+}
